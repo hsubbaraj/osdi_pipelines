@@ -7,3 +7,6 @@ There are 3 pipelines, inspired by the Inferline paper: https://arxiv.org/pdf/18
 3. Video Monitoring
 
 Pipelines 1&2 require some imagenet images (I used academictorrents)
+
+Can download weights file here: https://pjreddie.com/media/files/yolov3.weights
+Put them in the obj_detection/weights/ folder
